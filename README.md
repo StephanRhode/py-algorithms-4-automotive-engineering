@@ -3,6 +3,8 @@
 This repository contains jupyter notebooks and python code for seminar: *Python 
 Algorithms for Automotive Engineering*
 
+[![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
+
 ## Getting Started
 
 Please follow these steps to get a local copy of this project on your machine and to 
