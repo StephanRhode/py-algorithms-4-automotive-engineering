@@ -3,6 +3,8 @@
 This repository contains jupyter notebooks and python code for seminar: *Python 
 Algorithms for Automotive Engineering*
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master)
+
 ## Getting Started
 
 Please follow these steps to get a local copy of this project on your machine and to 
