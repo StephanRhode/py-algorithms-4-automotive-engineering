@@ -53,7 +53,7 @@ Der Lerninhalt gliedert sich folgendermaßen.
 grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lernen 
     * [Anaconda](https://www.anaconda.com/), [Pycharm](https://www.jetbrains.com/pycharm/),
       [Jupyter](https://jupyter.org/)
-    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/)
+    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/),
       [SymPy](https://www.sympy.org/en/index.html), [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * Methoden und Tools zur Erstellung von Software
     * Versionsverwaltung [GitHub](https://github.com/), [git](https://git-scm.com/)
