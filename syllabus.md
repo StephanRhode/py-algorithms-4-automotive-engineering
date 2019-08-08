@@ -7,7 +7,7 @@ The learning content is structured as follows.
 graphical representation, optimization, symbolic arithmetic and machine learning 
     * [Anaconda](https://www.anaconda.com/), [Pycharm](https://www.jetbrains.com/pycharm/),
       [Jupyter](https://jupyter.org/)
-    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/)
+    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/),
       [SymPy](https://www.sympy.org/en/index.html), [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * Methods and tools for creating software
     * Version management [GitHub](https://github.com/), [git](https://git-scm.com/)
@@ -53,7 +53,7 @@ Der Lerninhalt gliedert sich folgendermaßen.
 grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lernen 
     * [Anaconda](https://www.anaconda.com/), [Pycharm](https://www.jetbrains.com/pycharm/),
       [Jupyter](https://jupyter.org/)
-    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/)
+    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/),
       [SymPy](https://www.sympy.org/en/index.html), [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * Methoden und Tools zur Erstellung von Software
     * Versionsverwaltung [GitHub](https://github.com/), [git](https://git-scm.com/)
@@ -72,7 +72,7 @@ Die Studierenden haben einen Überblick über die Programmiersprache Python und 
 Python Bibliotheken um fahrzeugtechnische Fragestellungen durch Computerprogramme zu 
 lösen. Sie kennen aktuelle Tools rund um Python um Algorithmen zu erstellen, anzuwenden
 und deren Ergebnisse zu interpretieren und zu visualisieren. Weiterhin kennen die 
-Stunden Grundlagen in der Erstellung von Software, um in späteren Programmierprojekten 
+Stundenten Grundlagen in der Erstellung von Software, um in späteren Programmierprojekten 
 qualitativ hochwertige Softwarelösungen in Teamarbeit zu entwickeln. Durch praktische 
 Programmierprojekte (Straßenschilderkennung, Zustandsschätzung, Kalibrierung, 
 datenbasierte Modellierung) können die Studenten zukünftige komplexe Aufgaben aus dem 
