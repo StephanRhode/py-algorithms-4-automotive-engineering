@@ -1,7 +1,10 @@
-# py-algorithms-4-automotive-engineering
+# Python Algorithms for Automotive Engineering
 
-This repository contains jupyter notebooks and python code for seminar: *Python 
-Algorithms for Automotive Engineering*
+This repository contains jupyter notebooks and python code for KIT course: *Python 
+Algorithms for Automotive Engineering*. Please find the course syllabus 
+[here](syllabus.md).
+
+[![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master)
 
