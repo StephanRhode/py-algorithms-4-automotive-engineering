@@ -15,15 +15,26 @@ build, test, and deploy the lecture slides.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+All notebooks can be used interactively via
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master).
 
-```
-Give examples
-```
+Hence, you can follow the lecture with your laptop and a web browser. However, if you
+want to save your work and learn how to use tools like Pycharm, git and libraries like
+Pytest, you should install the following software on your computer.
+
+* [Anaconda](https://www.anaconda.com/distribution/)
+* [Pycharm (community edition)](https://www.jetbrains.com/pycharm/download)
+* [git](https://git-scm.com/downloads)
 
 ### Installing
 
-First navigate to the repository source folder and call this command to tell conda to 
+First, clone this repository in a terminal with
+
+```
+git clone https://github.com/StephanRhode/py-algorithms-4-automotive-engineering.git
+```
+
+Second, navigate to the repository source folder and call this command to tell conda to
 create a new virtual environment for python with packages defined in 
 [requirements.txt](requirements.txt).
 
@@ -31,39 +42,24 @@ create a new virtual environment for python with packages defined in
 conda create -p ./_venv --file ./requirements.txt 
 ```
 
-And repeat
+Third, test you installation with activated environment and a pytest call
 
 ```
-until finished
+conda activate ./_venv_
+pytest
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+This is very simple, just call
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+pytest
 ```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
+TODO: Add additional notes about how to deploy this on a live system if 
+required.
 
 ## Contributing
 
@@ -78,7 +74,7 @@ submitting pull requests to us.
 
 ## Contributors
 
-Add here a list of contributors
+* [awiawi](https://github.com/awiawi)
 
 ## License
 
@@ -86,4 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 for details
 
 ## Acknowledgments
-
