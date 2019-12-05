@@ -22,30 +22,44 @@ Hence, you can follow the lecture with your laptop and a web browser. However, i
 want to save your work and learn how to use tools like Pycharm, git and libraries like
 Pytest, you should install the following software on your computer.
 
-* [Anaconda](https://www.anaconda.com/distribution/)
 * [Pycharm (community edition)](https://www.jetbrains.com/pycharm/download)
 * [git](https://git-scm.com/downloads)
 
+Add to this, you might want to store your results in your own github repository. 
+Therefore, please create [a github account](https://github.com/).
+
 ### Installing
 
-First, clone this repository in a terminal with
+First, fork this repository to your github account. Than, clone this repository in a 
+terminal with
 
 ```
-git clone https://github.com/StephanRhode/py-algorithms-4-automotive-engineering.git
+git clone https://github.com/"YOUR USER"/py-algorithms-4-automotive-engineering.git
 ```
 
-Second, navigate to the repository source folder and call this command to tell conda to
-create a new virtual environment for python with packages defined in 
-[requirements.txt](requirements.txt).
+or go to Pycharm and click on `VCS/Get from Version Control...`. 
+
+Second, open the project in Pycharm and create a new environment (right bottom corner
+of Pycharm). Than open [requirements.txt](requirements.txt) in Project panel and click
+on install missing packages.
+
+Alternatively, you can install the virtual environment manually from command line
+with [this pip manual](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
+
+Third, test you installation with activated environment and a pytest call. You can 
+check if you activated the environment by having a look at command prompt. If it 
+starts with `(_venv) user@computer:~/some/path`, you are in active environment
+`(_venv)`, if not you need to activate the environment with 
 
 ```
-conda create -p ./_venv --file ./requirements.txt 
+.\_venv\Scripts\activate
 ```
-
-Third, test you installation with activated environment and a pytest call
-
+on Windows and with 
 ```
-conda activate ./_venv_
+source _venv/bin/activate
+```
+on Linux and macOS. Now test your installation with
+```
 pytest
 ```
 
