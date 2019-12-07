@@ -1,6 +1,8 @@
 # Syllabus
 ## Title
 *Python Algorithms for Automotive Engineering*, 2 SWS in summer semester 
+## Prerequisites
+Please bring your laptop to the lectures.
 ## Teaching content
 The learning content is structured as follows.
 * Introduction to Python and useful tools and libraries for creating algorithms, 
@@ -47,6 +49,8 @@ ISBN: 9780136083238, [link](https://www.oreilly.com/library/view/clean-code/9780
 # Kursbeschreibung
 ## Titel und Umfang
 *Python Algorithmen für Fahrzeugtechnik*, 2 SWS im Sommersemester blockweise
+## Vorausetzungen
+Bitte bringen Sie ihren Laptop mit zu den Vorlesungen.
 ## Lehrinhalt
 Der Lerninhalt gliedert sich folgendermaßen.
 * Einführung in Python und nützliche Tools und Bibliotheken zur Algorithmenerstellung, 
