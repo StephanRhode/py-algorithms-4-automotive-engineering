@@ -18,4 +18,6 @@ def execute_notebook(notebook_file):
 
 
 def test_intro():
-    execute_notebook(notebook_file="intro.ipynb")
+    execute_notebook(notebook_file="00_intro/intro.ipynb")
+    execute_notebook(notebook_file="01_basic-python/basic-python.ipynb")
+
