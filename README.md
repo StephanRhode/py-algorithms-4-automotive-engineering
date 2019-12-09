@@ -38,7 +38,7 @@ First, fork this repository to your github account. Than, clone this repository 
 terminal with
 
 ```
-git clone https://github.com/"YOUR USER"/py-algorithms-4-automotive-engineering.git
+git clone https://github.com/<YOUR USER>/py-algorithms-4-automotive-engineering.git
 ```
 
 or go to Pycharm and click on `VCS/Get from Version Control...`. 
@@ -72,6 +72,12 @@ pytest
 This is very simple, just call
 ```
 pytest
+```
+
+## Create presentation slides
+You can convert the jupyter notebooks into slides with this command
+```
+jupyter nbconvert <folder/file.ipynb> --to slides --post serve
 ```
 
 ## Maintainer
