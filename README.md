@@ -15,6 +15,8 @@ build, test, and deploy the lecture slides.
 
 ### Prerequisites
 
+Please bring your laptop to class.
+
 All notebooks can be used interactively via
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master).
 
