@@ -6,6 +6,10 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 
 [![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 
+## Table of contents
+1. [Intrduction](00_intro/intro.ipynb)
+2. [Basic python syntax](01_basic-python/basic-python.ipynb) 
+
 ## Getting Started
 
 Please follow these steps to get a local copy of this project on your machine and to 
@@ -71,18 +75,6 @@ This is very simple, just call
 ```
 pytest
 ```
-
-## Deployment
-
-TODO: Add additional notes about how to deploy this on a live system if 
-required.
-
-## Contributing
-
-TODO: add CONTRIBUTING.md file
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for
-submitting pull requests to us.
 
 ## Maintainer
 
