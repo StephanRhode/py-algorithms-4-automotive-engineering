@@ -1,3 +1,5 @@
+![](https://www.python.org/static/community_logos/python-powered-w-140x56.png)
+
 # Python Algorithms for Automotive Engineering
 
 This repository contains jupyter notebooks and python code for KIT course: *Python 
