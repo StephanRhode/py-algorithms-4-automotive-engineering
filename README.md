@@ -79,7 +79,7 @@ pytest
 ## Create presentation slides
 You can convert the jupyter notebooks into slides with this command
 ```
-jupyter nbconvert <folder/file.ipynb> --to slides --post serve
+jupyter nbconvert <folder/file.ipynb> --to slides
 ```
 
 ## Maintainer
