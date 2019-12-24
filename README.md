@@ -9,8 +9,8 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 
 ## Table of contents
-1. [Intrduction](00_intro/intro.ipynb)
-2. [Basic python syntax](01_basic-python/basic-python.ipynb) 
+1. [Introduction](00_intro/00_intro.ipynb)
+2. [Basic python syntax](01_basic-python/01_basic-python.ipynb) 
 
 ## Getting Started
 
