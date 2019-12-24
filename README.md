@@ -54,15 +54,15 @@ with [this pip manual](https://packaging.python.org/guides/installing-using-pip-
 
 Third, test you installation with activated environment and a pytest call. You can 
 check if you activated the environment by having a look at command prompt. If it 
-starts with `(_venv) user@computer:~/some/path`, you are in active environment
-`(_venv)`, if not you need to activate the environment with 
+starts with `(venv) user@computer:~/some/path`, you are in active environment
+`(venv)`, if not you need to activate the environment with 
 
 ```
-.\_venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 on Windows and with 
 ```
-source _venv/bin/activate
+source venv/bin/activate
 ```
 on Linux and macOS. Now test your installation with
 ```
