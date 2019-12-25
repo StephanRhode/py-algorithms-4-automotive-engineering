@@ -30,6 +30,7 @@ Pytest, you should install the following software on your computer.
 
 * [Pycharm (community edition)](https://www.jetbrains.com/pycharm/download)
 * [git](https://git-scm.com/downloads)
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 Add to this, you might want to store your results in your own github repository. 
 Therefore, please create [a github account](https://github.com/).
