@@ -10,7 +10,7 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 
 ## Table of contents
 1. [Introduction](00_intro/00_intro.ipynb)
-2. [Basic python syntax](01_basic-python/01_basic-python.ipynb) 
+2. [Basic python](01_basic-python/01_basic-python.ipynb) 
 
 ## Getting Started
 
