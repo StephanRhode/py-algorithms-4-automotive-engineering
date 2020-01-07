@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-/_venv
+/venv
 __pycache__
 .idea
 references.bib.bak
