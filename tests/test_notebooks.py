@@ -22,5 +22,7 @@ def test_intro():
 
 
 def test_basic_python():
-    execute_notebook(notebook_file="01_basic-python/01_basic-python.ipynb")
+    execute_notebook(notebook_file="01_basic-python/00_syntax.ipynb")
+    execute_notebook(notebook_file="01_basic-python/01_semantics.ipynb")
+    execute_notebook(notebook_file="01_basic-python/02_data-types.ipynb")
 
