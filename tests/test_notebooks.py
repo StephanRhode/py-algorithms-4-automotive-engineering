@@ -17,12 +17,17 @@ def execute_notebook(notebook_file):
         raise
 
 
-def test_intro():
+def test_intro_00():
     execute_notebook(notebook_file="00_intro/00_intro.ipynb")
 
 
-def test_basic_python():
+def test_basic_python_00():
     execute_notebook(notebook_file="01_basic-python/00_syntax.ipynb")
-    execute_notebook(notebook_file="01_basic-python/01_semantics.ipynb")
-    execute_notebook(notebook_file="01_basic-python/02_data-types.ipynb")
 
+
+def test_basic_python_01():
+    execute_notebook(notebook_file="01_basic-python/01_semantics.ipynb")
+
+
+def test_basic_python_02():
+    execute_notebook(notebook_file="01_basic-python/02_data-types.ipynb")
