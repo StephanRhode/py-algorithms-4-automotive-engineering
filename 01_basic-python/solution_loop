@@ -1,0 +1,12 @@
+my_dict = {"force": [0, 10, 15, 30, 45], "distance": [2.5, 3.5, 6.0, -3.0, 8.1]}
+
+# It was simpler for me to extract the values at first.
+force = my_dict["force"]
+distance = my_dict["distance"]
+
+res = 0.0
+
+for idx, val in enumerate(force):
+    res += val * distance[idx]
+
+print(res)

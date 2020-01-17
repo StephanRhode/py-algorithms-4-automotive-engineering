@@ -1,10 +1,12 @@
+import pytest
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
 from nbconvert.preprocessors.execute import CellExecutionError
 
 
 def execute_notebook(notebook_file):
-    """see this nbconvert docu http://nbconvert.readthedocs.io/en/latest/execute_api.html
+    """see this nbconvert docu
+    http://nbconvert.readthedocs.io/en/latest/execute_api.html
     to understand this test"""
     print('---make jupyter test for ' + notebook_file)
 
@@ -17,17 +19,12 @@ def execute_notebook(notebook_file):
         raise
 
 
-def test_intro_00():
-    execute_notebook(notebook_file="00_intro/00_intro.ipynb")
+@pytest.mark.parametrize("notebook", ["00_intro", "01_py-installation"])
+def test_00_intro(notebook):
+    execute_notebook(notebook_file="00_intro/" + notebook + ".ipynb")
 
 
-def test_basic_python_00():
-    execute_notebook(notebook_file="01_basic-python/00_syntax.ipynb")
-
-
-def test_basic_python_01():
-    execute_notebook(notebook_file="01_basic-python/01_semantics.ipynb")
-
-
-def test_basic_python_02():
-    execute_notebook(notebook_file="01_basic-python/02_data-types.ipynb")
+@pytest.mark.parametrize("notebook", ["00_syntax", "01_semantics", "02_data-types",
+                                      "03_conditions-and-loops"])
+def test_01_basic_python(notebook):
+    execute_notebook(notebook_file="01_basic-python/" + notebook + ".ipynb")
