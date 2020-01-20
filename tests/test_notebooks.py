@@ -25,6 +25,6 @@ def test_00_intro(notebook):
 
 
 @pytest.mark.parametrize("notebook", ["00_syntax", "01_semantics", "02_data-types",
-                                      "03_conditions-and-loops"])
+                                      "03_conditions-and-loops", "04_functions"])
 def test_01_basic_python(notebook):
     execute_notebook(notebook_file="01_basic-python/" + notebook + ".ipynb")
