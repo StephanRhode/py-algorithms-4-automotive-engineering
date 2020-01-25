@@ -37,6 +37,7 @@ def test_01_basic_python(notebook):
 
 
 @pytest.mark.parametrize("notebook", ["00_tools-for-python",
-                                      "01_plot-packages"])
+                                      "01_plot-packages",
+                                      "02_numpy"])
 def test_02_tools_and_packages(notebook):
     execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")

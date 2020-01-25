@@ -86,6 +86,24 @@ You can convert the jupyter notebooks into slides with this command
 python make_slides.py
 ```
 
+## Create html or pdf script
+You can join all jupyter notebooks into one file with `nbmerge` package 
+and the command
+```
+nbmerge --recursive -o merged.ipynb
+```
+When this is done, you can use 
+```
+jupyter nbconvert merged.ipynb --to html
+```
+or 
+```
+jupyter nbconvert merged.ipynb --to pdf
+```
+to create all in one files of this course. Note that you need a 
+`pandoc` installation on your computer. Curently, html option works,
+pdf causes errors and the figures in pdf are missing.
+
 ## Maintainer
 
 * [Stephan Rhode](https://github.com/StephanRhode)
