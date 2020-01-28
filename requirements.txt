@@ -2,3 +2,6 @@ jupyter
 matplotlib
 numpy
 pytest
+nbconvert
+nbformat
+scipy
