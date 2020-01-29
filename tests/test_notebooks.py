@@ -41,7 +41,7 @@ def test_01_basic_python(notebook):
                                       "02_numpy",
                                       "03_scipy",
                                       "04_sympy",
-                                      "05_sklearn",
-                                      "06_pytest"])
+                                      "05_pytest",
+                                      "06_sklearn"])
 def test_02_tools_and_packages(notebook):
     execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")
