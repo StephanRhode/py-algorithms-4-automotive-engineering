@@ -41,7 +41,13 @@ def test_01_basic_python(notebook):
                                       "02_numpy",
                                       "03_scipy",
                                       "04_sympy",
-                                      "05_pytest",
-                                      "06_sklearn"])
+                                      "05_sklearn",
+                                      "06_additional-packages"])
 def test_02_tools_and_packages(notebook):
     execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")
+
+
+@pytest.mark.parametrize("notebook", ["01_pytest",
+                                      ])
+def test_03_software_development(notebook):
+    execute_notebook(notebook_file="03_software-development/" + notebook + ".ipynb")
