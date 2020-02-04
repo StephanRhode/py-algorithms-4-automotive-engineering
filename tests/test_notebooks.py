@@ -51,3 +51,9 @@ def test_02_tools_and_packages(notebook):
                                       ])
 def test_03_software_development(notebook):
     execute_notebook(notebook_file="03_software-development/" + notebook + ".ipynb")
+
+
+@pytest.mark.parametrize("notebook", ["00_ode",
+                                      ])
+def test_04_mini_projects(notebook):
+    execute_notebook(notebook_file="04_mini-projects/" + notebook + ".ipynb")
