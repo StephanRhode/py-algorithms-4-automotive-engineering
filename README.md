@@ -89,6 +89,7 @@ jupyter nbconvert <folder/file.ipynb> --to slides
 ## Contributors
 
 * [awiawi](https://github.com/awiawi)
+* [mauricio-fernandez-l](https://github.com/mauricio-fernandez-l)
 
 ## License
 
