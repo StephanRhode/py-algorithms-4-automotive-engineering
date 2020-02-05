@@ -9,8 +9,9 @@ The learning content is structured as follows.
 graphical representation, optimization, symbolic arithmetic and machine learning 
     * [Anaconda](https://www.anaconda.com/), [Pycharm](https://www.jetbrains.com/pycharm/),
       [Jupyter](https://jupyter.org/)
-    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/),
-      [SymPy](https://www.sympy.org/en/index.html), [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+    * [NumPy](http://www.numpy.org/), [SciPy](https://docs.scipy.org/doc/scipy/reference/), 
+      [Matplotlib](https://matplotlib.org/), [SymPy](https://www.sympy.org/en/index.html), 
+      [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * Methods and tools for creating software
     * Version management [GitHub](https://github.com/), [git](https://git-scm.com/)
     * Testing software [pytest](https://docs.pytest.org/en/latest/),
@@ -57,8 +58,9 @@ Der Lerninhalt gliedert sich folgendermaßen.
 grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lernen 
     * [Anaconda](https://www.anaconda.com/), [Pycharm](https://www.jetbrains.com/pycharm/),
       [Jupyter](https://jupyter.org/)
-    * [NumPy](http://www.numpy.org/), [Matplotlib](https://matplotlib.org/),
-      [SymPy](https://www.sympy.org/en/index.html), [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+    * [NumPy](http://www.numpy.org/), [SciPy](https://docs.scipy.org/doc/scipy/reference/),
+      [Matplotlib](https://matplotlib.org/), [SymPy](https://www.sympy.org/en/index.html), 
+      [Scikit-Learn](https://scikit-learn.org/stable/index.html)
 * Methoden und Tools zur Erstellung von Software
     * Versionsverwaltung [GitHub](https://github.com/), [git](https://git-scm.com/)
     * Testen von Software [pytest](https://docs.pytest.org/en/latest/),

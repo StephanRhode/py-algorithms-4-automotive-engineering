@@ -10,7 +10,10 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 
 ## Table of contents
 1. [Introduction](00_intro/00_intro.ipynb)
-2. [Basic python syntax](01_basic-python/01_basic-python.ipynb) 
+2. [Basic python](01_basic-python) 
+    1. [Syntax](01_basic-python/00_syntax.ipynb)
+    2. [Semantics](01_basic-python/01_semantics.ipynb)
+    3. [Data types](01_basic-python/02_data-types.ipynb)
 
 ## Getting Started
 
@@ -30,6 +33,7 @@ Pytest, you should install the following software on your computer.
 
 * [Pycharm (community edition)](https://www.jetbrains.com/pycharm/download)
 * [git](https://git-scm.com/downloads)
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 Add to this, you might want to store your results in your own github repository. 
 Therefore, please create [a github account](https://github.com/).
@@ -79,8 +83,26 @@ pytest
 ## Create presentation slides
 You can convert the jupyter notebooks into slides with this command
 ```
-jupyter nbconvert <folder/file.ipynb> --to slides
+python make_slides.py
 ```
+
+## Create html or pdf script
+You can join all jupyter notebooks into one file with `nbmerge` package 
+and the command
+```
+nbmerge --recursive -o merged.ipynb
+```
+When this is done, you can use 
+```
+jupyter nbconvert merged.ipynb --to html
+```
+or 
+```
+jupyter nbconvert merged.ipynb --to pdf
+```
+to create all in one files of this course. Note that you need a 
+`pandoc` installation on your computer. Curently, html option works,
+pdf causes errors and the figures in pdf are missing.
 
 ## Maintainer
 
