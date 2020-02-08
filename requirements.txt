@@ -6,3 +6,4 @@ nbconvert
 nbformat
 scipy
 sympy
+control
