@@ -5,5 +5,6 @@ pytest
 nbconvert
 nbformat
 scipy
+scikit-learn
 sympy
 control

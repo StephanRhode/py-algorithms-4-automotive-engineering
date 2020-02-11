@@ -20,6 +20,7 @@ graphical representation, optimization, symbolic arithmetic and machine learning
     * Continuous Integration (CI) [Travis CI](https://travis-ci.org/)
     * Workflows in Open Source and Inner Source, Kanban, Scrum
 * Practical programming projects to:
+    * Solution of ordinary differential equations
     * Road sign recognition
     * Vehicle state estimation
     * Calibration of vehicle models by mathematical optimization
@@ -69,6 +70,7 @@ grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lerne
     * Continuous Integration (CI) [Travis CI](https://travis-ci.org/)
     * Workflows in Open Source und Inner Source, Kanban, Scrum
 * Praktische Programmierprojekte zur:
+    * Lösung von gewöhnlichen Differentialgleichungen
     * Erkennung von Straßenschildern
     * Schätzung von Fahrzeugzuständen
     * Kalibrierung von Fahrzeugmodellen durch Mathematische Optimierung
