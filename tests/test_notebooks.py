@@ -47,7 +47,12 @@ def test_02_tools_and_packages(notebook):
     execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")
 
 
-@pytest.mark.parametrize("notebook", ["01_pytest",
+@pytest.mark.parametrize("notebook", ["00_git-github",
+                                      "01_pytest",
+                                      "02_sphinx",
+                                      "03_continuous-integration",
+                                      "04_clean-code",
+                                      "05_workflows"
                                       ])
 def test_03_software_development(notebook):
     execute_notebook(notebook_file="03_software-development/" + notebook + ".ipynb")
