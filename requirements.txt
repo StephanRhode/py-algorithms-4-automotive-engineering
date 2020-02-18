@@ -4,6 +4,7 @@ jupyter_contrib_nbextensions
 matplotlib
 numpy
 pytest
+pytest-cov
 nbconvert
 nbformat
 scipy
