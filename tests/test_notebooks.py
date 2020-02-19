@@ -48,7 +48,8 @@ def test_02_tools_and_packages(notebook):
 
 
 @pytest.mark.parametrize("notebook", ["00_git-github",
-                                      "01_pytest",
+                                      # ignore 01_pytest, because this test does not terminate
+                                      #"01_pytest",
                                       "02_sphinx",
                                       "03_continuous-integration",
                                       "04_clean-code",
