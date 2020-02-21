@@ -9,5 +9,6 @@ nbconvert
 nbformat
 scipy
 scikit-learn
+sphinx
 sympy
 control
