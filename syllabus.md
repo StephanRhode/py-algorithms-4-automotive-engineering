@@ -17,9 +17,10 @@ graphical representation, optimization, symbolic arithmetic and machine learning
     * Testing software [pytest](https://docs.pytest.org/en/latest/),
       [Pylint](https://www.pylint.org/)
     * Documentation [Sphinx](http://www.sphinx-doc.org/en/stable/)
-    * Continuous Integration (CI) [Travis CI](https://travis-ci.org/)
-    * Workflows in Open Source and Inner Source, Kanban, Scrum
+    * Continuous Integration (CI) [GitHub Actions](https://github.com/features/actions)
+    * Clean Code
 * Practical programming projects to:
+    * Solution of ordinary differential equations
     * Road sign recognition
     * Vehicle state estimation
     * Calibration of vehicle models by mathematical optimization
@@ -66,9 +67,10 @@ grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lerne
     * Testen von Software [pytest](https://docs.pytest.org/en/latest/),
       [Pylint](https://www.pylint.org/)
     * Dokumentation [Sphinx](http://www.sphinx-doc.org/en/stable/)
-    * Continuous Integration (CI) [Travis CI](https://travis-ci.org/)
-    * Workflows in Open Source und Inner Source, Kanban, Scrum
+    * Continuous Integration (CI) with [GitHub Actions](https://github.com/features/actions)
+    * Clean Code
 * Praktische Programmierprojekte zur:
+    * Lösung von gewöhnlichen Differentialgleichungen
     * Erkennung von Straßenschildern
     * Schätzung von Fahrzeugzuständen
     * Kalibrierung von Fahrzeugmodellen durch Mathematische Optimierung
