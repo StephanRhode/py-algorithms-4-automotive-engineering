@@ -9,40 +9,45 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 
 ## Table of contents
-[**1. Introduction:**](00_intro)
-[1.1 Introduction;](00_intro/00_intro.ipynb)
-[1.2. Python installation.](00_intro/01_py-installation.ipynb)
+[**1. Introduction**](00_intro)
 
-[**2. Basic python:**](01_basic-python) 
+[1.1 Introduction;](00_intro/00_intro.ipynb)
+[1.2. Python installation](00_intro/01_py-installation.ipynb)
+
+[**2. Basic python**](01_basic-python) 
+
 [2.1. Syntax;](01_basic-python/00_syntax.ipynb)
 [2.2. Semantics;](01_basic-python/01_semantics.ipynb)
 [2.3. Data types;](01_basic-python/02_data-types.ipynb)
 [2.4. Conditions and loops;](01_basic-python/03_conditions-and-loops.ipynb)
 [2.5. Functions;](01_basic-python/04_functions.ipynb)
 [2.6. Classes;](01_basic-python/05_classes.ipynb)
-[2.7. Modules.](01_basic-python/06_modules.ipynb)
+[2.7. Modules](01_basic-python/06_modules.ipynb)
 
-[**3. Tools and packages:**](02_tools-and-packages)
+[**3. Tools and packages**](02_tools-and-packages)
+
 [3.1. Tools for Python;](02_tools-and-packages/00_tools-for-python.ipynb)
 [3.2. Plot packages;](02_tools-and-packages/01_plot-packages.ipynb)
 [3.3. NumPy;](02_tools-and-packages/02_numpy.ipynb)
 [3.4. SciPy;](02_tools-and-packages/03_scipy.ipynb)
 [3.5. SymPy;](02_tools-and-packages/04_sympy.ipynb)
 [3.6. Scikit-Learn;](02_tools-and-packages/05_sklearn.ipynb)
-[3.7. Additional packages.](02_tools-and-packages/06_additional-packages.ipynb)
+[3.7. Additional packages](02_tools-and-packages/06_additional-packages.ipynb)
 
-[**4. Software development:**](03_software-development)
+[**4. Software development**](03_software-development)
+
 [4.1. Git, Github;](03_software-development/00_git-github.ipynb)
 [4.2. PyTest;](03_software-development/01_pytest.ipynb)
 [4.3. Sphinx;](03_software-development/02_sphinx.ipynb)
 [4.4. Continuous Integration;](03_software-development/03_continuous-integration.ipynb)
-[4.5. Clean Code.](03_software-development/04_clean-code.ipynb)
+[4.5. Clean Code](03_software-development/04_clean-code.ipynb)
 
-[**5. Mini projects:**](04_mini-projects)
+[**5. Mini projects**](04_mini-projects)
+
 [5.1. Ordinary Differential Equations;](04_mini-projects/00_ode.ipynb)
 [5.2. Vehicle model calibration;](04_mini-projects/01_vehicle-model-calibration.ipynb)
 [5.3. Vehicle state estimation;](04_mini-projects/02_vehicle-state-estimation.ipynb)
-[5.4. e-Vehicle powertrain modeling.](04_mini-projects/03_e-vehicle-powertrain-model.ipynb)
+[5.4. e-Vehicle powertrain modeling](04_mini-projects/03_e-vehicle-powertrain-model.ipynb)
 
 ## Getting Started
 
