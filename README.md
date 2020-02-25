@@ -146,6 +146,7 @@ pdf causes errors and the figures in pdf are missing.
 
 * [awiawi](https://github.com/awiawi)
 * [mauricio-fernandez-l](https://github.com/mauricio-fernandez-l)
+* [FelixBleimund](https://github.com/FelixBleimund)
 
 ## License
 
