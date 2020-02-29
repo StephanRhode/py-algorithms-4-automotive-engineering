@@ -6,6 +6,7 @@ This repository contains jupyter notebooks and python code for KIT course: *Pyth
 Algorithms for Automotive Engineering*. Please find the course syllabus 
 [here](syllabus.md).
 
+[Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 [![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
 
 ## Table of contents
@@ -57,8 +58,10 @@ build, test, and deploy the lecture slides.
 ### Prerequisites
 
 Please bring your laptop to class. All notebooks can be viewed directly in github or through 
+[nbviewer](https://nbviewer.jupyter.org/github/StephanRhode/py-algorithms-4-automotive-engineering/tree/master/)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/StephanRhode/py-algorithms-4-automotive-engineering/tree/master/)
 or, the notebooks ca be used interactively via
+[Binder](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StephanRhode/py-algorithms-4-automotive-engineering/master).
 
 Hence, you can follow the lecture with your laptop and a web browser. However, if you
