@@ -93,8 +93,8 @@ on install missing packages.
 Alternatively, you can install the virtual environment manually from command line
 with [this pip manual](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/).
 
-Third, test you installation with activated environment and a pytest call. You can 
-check if you activated the environment by having a look at command prompt. If it 
+Third, test your installation with activated environment and a pytest call. You can 
+check if you activated the environment by having a look at the command prompt. If it 
 starts with `(venv) user@computer:~/some/path`, you are in active environment
 `(venv)`, if not you need to activate the environment with 
 
