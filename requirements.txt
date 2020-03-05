@@ -16,3 +16,4 @@ control
 yapf
 pylint
 flake8
+tensorflow

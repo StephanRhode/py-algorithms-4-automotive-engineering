@@ -49,6 +49,7 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [5.2. Vehicle model calibration;](04_mini-projects/01_vehicle-model-calibration.ipynb)
 [5.3. Vehicle state estimation;](04_mini-projects/02_vehicle-state-estimation.ipynb)
 [5.4. e-Vehicle powertrain modeling](04_mini-projects/03_e-vehicle-powertrain-model.ipynb)
+[5.5. Deep learning](04_mini-projects/09_deepl.ipynb)
 
 ## Getting Started
 
