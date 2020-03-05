@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
-from mpl_toolkits import mplot3d
+from mpl_toolkits import mplot3d  # this import is required for the plots below
 
 # %% Data
 
@@ -50,5 +50,3 @@ plt.figure()
 ax = plt.axes(projection='3d')
 ax.scatter(xs[:, 0], xs[:, 1], ys)
 ax.scatter(xs[:, 0], xs[:, 1], ys_m)
-
-plt.show()

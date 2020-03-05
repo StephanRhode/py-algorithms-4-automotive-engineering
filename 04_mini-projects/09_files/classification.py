@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.image import imread
 import glob
+import os
 
 #%% Data
 
@@ -11,8 +12,8 @@ def rgb2gray(rgb):
 
 def getdata(folder):
     files = glob.glob(folder+'/*')
-    
-    labels = [file.split('\\')[-1].split('_')[0] for file in files]
+
+    labels = [os.path.basename(file).split('_')[0] for file in files]
     labels = np.array(labels,dtype=np.int)[:,np.newaxis]
     cases = np.unique(labels)
     labels = np.array([[i for i in range(len(cases)) if label==cases[i]] for label in labels])
