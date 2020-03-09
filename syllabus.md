@@ -19,6 +19,7 @@ graphical representation, optimization, symbolic arithmetic and machine learning
     * Documentation [Sphinx](http://www.sphinx-doc.org/en/stable/)
     * Continuous Integration (CI) [GitHub Actions](https://github.com/features/actions)
     * Clean Code
+    * Workflows in Open Source and Inner Source, Kanban, Scrum
 * Practical programming projects to:
     * Solution of ordinary differential equations
     * Road sign recognition
@@ -69,6 +70,7 @@ grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lerne
     * Dokumentation [Sphinx](http://www.sphinx-doc.org/en/stable/)
     * Continuous Integration (CI) with [GitHub Actions](https://github.com/features/actions)
     * Clean Code
+    * Workflows in Open Source and Inner Source, Kanban, Scrum
 * Praktische Programmierprojekte zur:
     * Lösung von gewöhnlichen Differentialgleichungen
     * Erkennung von Straßenschildern

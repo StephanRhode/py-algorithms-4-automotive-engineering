@@ -52,7 +52,8 @@ def test_02_tools_and_packages(notebook):
                                       # "01_pytest",
                                       "02_sphinx",
                                       "03_continuous-integration",
-                                      "04_clean-code"
+                                      "04_clean-code",
+                                      "05_workflows"
                                       ])
 def test_03_software_development(notebook):
     execute_notebook(notebook_file="03_software-development/" + notebook + ".ipynb")

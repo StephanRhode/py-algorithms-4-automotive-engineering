@@ -8,3 +8,4 @@ education.jpg | https://pixabay.com/de/photos/erwachsenenbildung-buch-b%C3%BCche
 objects.jpg | https://pixabay.com/de/photos/objekte-ausr%C3%BCstung-sortiment-731426/ | https://pixabay.com/de/service/license/
 wires.jpg | https://pixabay.com/de/photos/dr%C3%A4hte-linien-strom-ausr%C3%BCstung-1397853/ | https://pixabay.com/de/service/license/
 flower.jpg | https://pixabay.com/de/photos/margerite-g%C3%A4nsebl%C3%BCmchen-blume-wei%C3%9F-729510/ | https://pixabay.com/de/service/license/
+silo.jpg | https://pixabay.com/de/photos/el-reno-oklahoma-101245/ | https://pixabay.com/de/service/license/

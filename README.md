@@ -41,7 +41,8 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [4.2. PyTest;](03_software-development/01_pytest.ipynb)
 [4.3. Sphinx;](03_software-development/02_sphinx.ipynb)
 [4.4. Continuous Integration;](03_software-development/03_continuous-integration.ipynb)
-[4.5. Clean Code](03_software-development/04_clean-code.ipynb)
+[4.5. Clean Code;](03_software-development/04_clean-code.ipynb)
+[4.6. Workflows](03_software-development/05_workflows.ipynb)
 
 [**5. Mini projects**](04_mini-projects)
 
