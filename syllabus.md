@@ -23,7 +23,6 @@ graphical representation, optimization, symbolic arithmetic and machine learning
 * Practical programming projects to:
     * Solution of ordinary differential equations
     * Road sign recognition
-    * Vehicle state estimation
     * Calibration of vehicle models by mathematical optimization
     * Data-based modelling of the powertrain of an electric vehicle
 ## Objectives
@@ -74,7 +73,6 @@ grafischen Darstellung, Optimierung, symbolischem Rechnen und Maschinellem Lerne
 * Praktische Programmierprojekte zur:
     * Lösung von gewöhnlichen Differentialgleichungen
     * Erkennung von Straßenschildern
-    * Schätzung von Fahrzeugzuständen
     * Kalibrierung von Fahrzeugmodellen durch Mathematische Optimierung
     * Datenbasierten Modellierung des Antriebsstranges eines Elektrofahrzeuges
 ## Lernziele

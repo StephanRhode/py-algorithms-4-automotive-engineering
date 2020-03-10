@@ -61,8 +61,7 @@ def test_03_software_development(notebook):
 
 @pytest.mark.parametrize("notebook", ["00_ode",
                                       "01_vehicle-model-calibration",
-                                      "02_vehicle-state-estimation",
-                                      "03_e-vehicle-powertrain-model",
+                                      "02_e-vehicle-powertrain-model",
                                       "09_deepl"
                                       ])
 def test_04_mini_projects(notebook):
