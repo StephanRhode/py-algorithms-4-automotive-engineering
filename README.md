@@ -51,6 +51,37 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [5.3. e-Vehicle powertrain modeling;](04_mini-projects/02_e-vehicle-powertrain-model.ipynb)
 [5.4. Deep learning](04_mini-projects/09_deepl.ipynb)
 
+## Video lectures
+In addition to the course material above please find here links to video lectures in 
+German language (most videos are in preparation, therefore some links might not work yet).
+
+**Lecture 01:** [Warm welcome;]() [1.1 Introduction;]() [1.2. Python installation]()
+
+**Lecture 02:** [2.1. Syntax;]() [2.2. Semantics]()
+
+**Lecture 03:** [2.3. Data types;]() [2.4. Conditions and loops]()
+
+**Lecture 04:** [2.5. Functions;]() [2.6. Classes]()
+
+**Lecture 05:** [2.7. Modules;]() [3.1. Tools for Python]()
+
+**Lecture 06:** [3.2. Plot packages;]() [3.3. NumPy]()
+
+**Lecture 07:** [3.4. SciPy;]() [3.5. SymPy]()
+
+**Lecture 08:** [3.6. Scikit-Learn;]() [3.7. Additional packages]()
+
+**Lecture 09:** [4.1. Git, Github;]() [4.2. PyTest]()
+
+**Lecture 10:** [4.3. Sphinx;]() [4.4. Continuous Integration]()
+
+**Lecture 11:** [4.5. Clean Code;]() [4.6. Workflows]()
+
+**Lecture 12:** [5.1. Ordinary Differential Equations;]() [5.2. Vehicle model calibration;]()
+[5.3. e-Vehicle powertrain modeling]()
+
+**Lecture 13:** [5.4. Deep learning]()
+
 ## Getting Started
 
 Please follow these steps to get a local copy of this project on your machine and to 
