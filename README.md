@@ -52,10 +52,12 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [5.4. Deep learning](04_mini-projects/09_deepl.ipynb)
 
 ## Video lectures
-In addition to the course material above please find here links to video lectures in 
-German language (most videos are in preparation, therefore some links might not work yet).
+In addition to the course material above please find here links to [video lectures in 
+German language](https://publikationen.bibliothek.kit.edu/serie/629) 
+(most videos are in preparation, therefore some links might not work yet).
 
-**Lecture 01:** [Warm welcome;]() [1.1 Introduction;]() [1.2. Python installation]()
+**Lecture 01:** [Warm welcome;](http://dx.doi.org/10.5445/IR/1000118409) 
+[1.1 Introduction;]() [1.2. Python installation]()
 
 **Lecture 02:** [2.1. Syntax;]() [2.2. Semantics]()
 
