@@ -57,9 +57,11 @@ German language](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C16
 (most videos are in preparation, therefore some links might not work yet).
 
 **Lecture 01:** [Warm welcome;](http://dx.doi.org/10.5445/IR/1000118409) 
-[1.1 Introduction;](https://doi.org/10.5445/IR/1000118403) [1.2. Python installation]()
+[1.1 Introduction;](https://doi.org/10.5445/IR/1000118403)
+[1.2. Python installation](https://doi.org/10.5445/IR/1000118432)
 
-**Lecture 02:** [2.1. Syntax;](https://doi.org/10.5445/IR/1000118466) [2.2. Semantics]()
+**Lecture 02:** [2.1. Syntax;](https://doi.org/10.5445/IR/1000118466)
+[2.2. Semantics]()
 
 **Lecture 03:** [2.3. Data types;]() [2.4. Conditions and loops]()
 
