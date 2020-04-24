@@ -61,11 +61,13 @@ German language](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C16
 [1.2. Python installation](https://doi.org/10.5445/IR/1000118432)
 
 **Lecture 02:** [2.1. Syntax;](https://doi.org/10.5445/IR/1000118466)
-[2.2. Semantics]()
+[2.2. Semantics](https://doi.org/10.5445/IR/1000118513)
 
-**Lecture 03:** [2.3. Data types;]() [2.4. Conditions and loops]()
+**Lecture 03:** [2.3. Data types;](https://doi.org/10.5445/IR/1000118515)
+[2.4. Conditions and loops](https://doi.org/10.5445/IR/1000118660)
 
-**Lecture 04:** [2.5. Functions;]() [2.6. Classes]()
+**Lecture 04:** [2.5. Functions;](https://doi.org/10.5445/IR/1000118668)
+[2.6. Classes](https://doi.org/10.5445/IR/1000118669)
 
 **Lecture 05:** [2.7. Modules;]() [3.1. Tools for Python]()
 
