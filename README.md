@@ -51,6 +51,43 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [5.3. e-Vehicle powertrain modeling;](04_mini-projects/02_e-vehicle-powertrain-model.ipynb)
 [5.4. Deep learning](04_mini-projects/09_deepl.ipynb)
 
+## Video lectures
+In addition to the course material above please find here links to [video lectures in 
+German language](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C16) 
+(most videos are in preparation, therefore some links might not work yet).
+
+**Lecture 01:** [Warm welcome;](http://dx.doi.org/10.5445/IR/1000118409) 
+[1.1 Introduction;](https://doi.org/10.5445/IR/1000118403)
+[1.2. Python installation](https://doi.org/10.5445/IR/1000118432)
+
+**Lecture 02:** [2.1. Syntax;](https://doi.org/10.5445/IR/1000118466)
+[2.2. Semantics](https://doi.org/10.5445/IR/1000118513)
+
+**Lecture 03:** [2.3. Data types;](https://doi.org/10.5445/IR/1000118515)
+[2.4. Conditions and loops](https://doi.org/10.5445/IR/1000118660)
+
+**Lecture 04:** [2.5. Functions;](https://doi.org/10.5445/IR/1000118668)
+[2.6. Classes](https://doi.org/10.5445/IR/1000118669)
+
+**Lecture 05:** [2.7. Modules;]() [3.1. Tools for Python]()
+
+**Lecture 06:** [3.2. Plot packages;]() [3.3. NumPy]()
+
+**Lecture 07:** [3.4. SciPy;]() [3.5. SymPy]()
+
+**Lecture 08:** [3.6. Scikit-Learn;]() [3.7. Additional packages]()
+
+**Lecture 09:** [4.1. Git, Github;]() [4.2. PyTest]()
+
+**Lecture 10:** [4.3. Sphinx;]() [4.4. Continuous Integration]()
+
+**Lecture 11:** [4.5. Clean Code;]() [4.6. Workflows]()
+
+**Lecture 12:** [5.1. Ordinary Differential Equations;]() [5.2. Vehicle model calibration;]()
+[5.3. e-Vehicle powertrain modeling]()
+
+**Lecture 13:** [5.4. Deep learning]()
+
 ## Getting Started
 
 Please follow these steps to get a local copy of this project on your machine and to 
