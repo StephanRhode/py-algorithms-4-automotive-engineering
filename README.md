@@ -69,24 +69,32 @@ German language](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C16
 **Lecture 04:** [2.5. Functions;](https://doi.org/10.5445/IR/1000118668)
 [2.6. Classes](https://doi.org/10.5445/IR/1000118669)
 
-**Lecture 05:** [2.7. Modules;]() [3.1. Tools for Python]()
+**Lecture 05:** [2.7. Modules;](https://doi.org/10.5445/IR/1000118789)
+[3.1. Tools for Python](https://doi.org/10.5445/IR/1000118792)
 
-**Lecture 06:** [3.2. Plot packages;]() [3.3. NumPy]()
+**Lecture 06:** [3.2. Plot packages;](https://doi.org/10.5445/IR/1000118805)
+[3.3. NumPy](https://doi.org/10.5445/IR/1000118806)
 
-**Lecture 07:** [3.4. SciPy;]() [3.5. SymPy]()
+**Lecture 07:** [3.4. SciPy;](https://doi.org/10.5445/IR/1000118870)
+[3.5. SymPy](https://doi.org/10.5445/IR/1000118873)
 
-**Lecture 08:** [3.6. Scikit-Learn;]() [3.7. Additional packages]()
+**Lecture 08:** [3.6. Scikit-Learn;](https://doi.org/10.5445/IR/1000118877)
+[3.7. Additional packages](https://doi.org/)
 
-**Lecture 09:** [4.1. Git, Github;]() [4.2. PyTest]()
+**Lecture 09:** [4.1. Git, Github;](https://doi.org/)
+[4.2. PyTest](https://doi.org/)
 
-**Lecture 10:** [4.3. Sphinx;]() [4.4. Continuous Integration]()
+**Lecture 10:** [4.3. Sphinx;](https://doi.org/)
+[4.4. Continuous Integration](https://doi.org/)
 
-**Lecture 11:** [4.5. Clean Code;]() [4.6. Workflows]()
+**Lecture 11:** [4.5. Clean Code;](https://doi.org/)
+[4.6. Workflows](https://doi.org/)
 
-**Lecture 12:** [5.1. Ordinary Differential Equations;]() [5.2. Vehicle model calibration;]()
-[5.3. e-Vehicle powertrain modeling]()
+**Lecture 12:** [5.1. Ordinary Differential Equations;](https://doi.org/)
+[5.2. Vehicle model calibration;](https://doi.org/)
+[5.3. e-Vehicle powertrain modeling](https://doi.org/)
 
-**Lecture 13:** [5.4. Deep learning]()
+**Lecture 13:** [5.4. Deep learning](https://doi.org/)
 
 ## Getting Started
 
