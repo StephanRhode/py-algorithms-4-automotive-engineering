@@ -79,7 +79,7 @@ German language](https://mediaservice.bibliothek.kit.edu/#/details/DIVA-2020-C16
 [3.5. SymPy](https://doi.org/10.5445/IR/1000118873)
 
 **Lecture 08:** [3.6. Scikit-Learn;](https://doi.org/10.5445/IR/1000118877)
-[3.7. Additional packages](https://doi.org/)
+[3.7. Additional packages](https://doi.org/10.5445/IR/1000118893)
 
 **Lecture 09:** [4.1. Git, Github;](https://doi.org/)
 [4.2. PyTest](https://doi.org/)
