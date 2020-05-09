@@ -13,7 +13,7 @@ def execute_notebook(notebook_file):
     try:
         with open(notebook_file) as f:
             nb = nbformat.read(f, as_version=4)
-        ep = ExecutePreprocessor(timeout=600, kernel_name='python3')
+        ep = ExecutePreprocessor(timeout=None, kernel_name='python3')
         ep.preprocess(nb, {'metadata': {'path': ''}})
     except CellExecutionError:
         raise
