@@ -10,6 +10,8 @@ nbconvert
 nbformat
 scipy
 scikit-learn
+setuptools>=41.0.0
+six>=1.12.0
 sphinx
 sympy
 control
