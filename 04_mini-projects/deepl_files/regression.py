@@ -6,8 +6,11 @@ from mpl_toolkits import mplot3d  # this import is required for the plots below
 # %% Data
 
 # Input and outplut
-xs = np.array([[x1, x2] for x1 in np.linspace(0, np.pi, 20) for x2 in
-               np.linspace(0, 2 * np.pi, 20)])
+xs = np.array([
+    [x1, x2] 
+    for x1 in np.linspace(0, np.pi, 20) 
+    for x2 in np.linspace(0, 2 * np.pi, 20)
+    ])
 ys = 3 * np.sin(np.sum(xs, axis=1, keepdims=True)) + 10
 print(xs.shape)
 print(ys.shape)
