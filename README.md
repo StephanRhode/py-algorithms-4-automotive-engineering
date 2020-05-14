@@ -91,10 +91,10 @@ The text in parenthesis denotes time of video and additional time for exercises.
 [4.1. Git, Github (79min)](https://doi.org/10.5445/IR/1000119134)
 
 **Lecture 09:** 
-[4.2. PyTest (41min + 10min practice)](https://doi.org/10.5445/IR/1000119144)
+[4.2. PyTest (41min + 10min practice);](https://doi.org/10.5445/IR/1000119144)
+[4.3. Sphinx (27min + 10min practice)](https://doi.org/10.5445/IR/1000119287)
 
 **Lecture 10:** 
-[4.3. Sphinx;](https://doi.org/)
 [4.4. Continuous Integration](https://doi.org/)
 
 **Lecture 11:** 
