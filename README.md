@@ -95,18 +95,20 @@ The text in parenthesis denotes time of video and additional time for exercises.
 [4.3. Sphinx (27min + 10min practice)](https://doi.org/10.5445/IR/1000119287)
 
 **Lecture 10:** 
-[4.4. Continuous Integration](https://doi.org/)
+[4.4. Continuous Integration (34min + 30min practice)](https://doi.org/10.5445/IR/1000119404)
+[4.5. Clean Code (55min)](https://doi.org/10.5445/IR/1000119413)
 
-**Lecture 11:** 
-[4.5. Clean Code;](https://doi.org/)
-[4.6. Workflows](https://doi.org/)
+**Lecture 11:**
+[4.6. Workflows (41min);](https://doi.org/10.5445/IR/1000119516)
+[5.1. Ordinary Differential Equations (28min + 30min practice)](https://doi.org/10.5445/IR/1000119613)
 
 **Lecture 12:** 
-[5.1. Ordinary Differential Equations;](https://doi.org/)
 [5.2. Vehicle model calibration;](https://doi.org/)
-[5.3. e-Vehicle powertrain modeling](https://doi.org/)
 
 **Lecture 13:** 
+[5.3. e-Vehicle powertrain modeling](https://doi.org/)
+
+**Lecture 14:**
 [5.4. Deep learning (73min)](https://doi.org/10.5445/IR/1000119310)
 
 ## Getting Started
