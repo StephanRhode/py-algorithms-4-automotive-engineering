@@ -102,10 +102,10 @@ The text in parenthesis denotes time of video and additional time for exercises.
 [4.6. Workflows (41min);](https://doi.org/10.5445/IR/1000119516)
 [5.1. Ordinary Differential Equations (28min + 30min practice)](https://doi.org/10.5445/IR/1000119613)
 
-**Lecture 12:** 
-[5.2. Vehicle model calibration;](https://doi.org/)
+**Lecture 12:**
+[5.2. Vehicle model calibration (36min + 45min practice);](https://doi.org/10.5445/IR/1000119651)
 
-**Lecture 13:** 
+**Lecture 13:**
 [5.3. e-Vehicle powertrain modeling](https://doi.org/)
 
 **Lecture 14:**
