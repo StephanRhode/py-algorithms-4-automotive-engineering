@@ -20,7 +20,8 @@ def execute_notebook(notebook_file):
 
 
 @pytest.mark.parametrize("notebook", ["00_intro",
-                                      "01_py-installation"])
+                                      "01_py-installation"
+                                      ])
 def test_00_intro(notebook):
     execute_notebook(notebook_file="00_intro/" + notebook + ".ipynb")
 
@@ -31,7 +32,8 @@ def test_00_intro(notebook):
                                       "03_conditions-and-loops",
                                       "04_functions",
                                       "05_classes",
-                                      "06_modules"])
+                                      "06_modules"
+                                      ])
 def test_01_basic_python(notebook):
     execute_notebook(notebook_file="01_basic-python/" + notebook + ".ipynb")
 
@@ -42,7 +44,8 @@ def test_01_basic_python(notebook):
                                       "03_scipy",
                                       "04_sympy",
                                       "05_sklearn",
-                                      "06_additional-packages"])
+                                      "06_additional-packages"
+                                      ])
 def test_02_tools_and_packages(notebook):
     execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")
 
