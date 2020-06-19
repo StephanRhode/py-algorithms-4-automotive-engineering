@@ -106,7 +106,7 @@ The text in parenthesis denotes time of video and additional time for exercises.
 [5.2. Vehicle model calibration (36min + 45min practice);](https://doi.org/10.5445/IR/1000119651)
 
 **Lecture 13:**
-[5.3. e-Vehicle powertrain modeling](https://doi.org/)
+[5.3. e-Vehicle powertrain modeling (40min + 45min practice)](https://doi.org/10.5445/IR/1000120320)
 
 **Lecture 14:**
 [5.4. Deep learning (73min)](https://doi.org/10.5445/IR/1000119310)
