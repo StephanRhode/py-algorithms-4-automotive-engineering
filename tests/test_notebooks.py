@@ -1,4 +1,5 @@
 import pytest
+import os
 import nbformat
 from nbconvert.preprocessors import ExecutePreprocessor
 from nbconvert.preprocessors.execute import CellExecutionError
@@ -35,7 +36,10 @@ def test_00_intro(notebook):
                                       "06_modules"
                                       ])
 def test_01_basic_python(notebook):
-    execute_notebook(notebook_file="01_basic-python/" + notebook + ".ipynb")
+    root_path = os.getcwd()
+    os.chdir("01_basic-python/")
+    execute_notebook(notebook_file=notebook + ".ipynb")
+    os.chdir(root_path)
 
 
 @pytest.mark.parametrize("notebook", ["00_tools-for-python",
@@ -47,7 +51,10 @@ def test_01_basic_python(notebook):
                                       "06_additional-packages"
                                       ])
 def test_02_tools_and_packages(notebook):
-    execute_notebook(notebook_file="02_tools-and-packages/" + notebook + ".ipynb")
+    root_path = os.getcwd()
+    os.chdir("02_tools-and-packages/")
+    execute_notebook(notebook_file=notebook + ".ipynb")
+    os.chdir(root_path)
 
 
 @pytest.mark.parametrize("notebook", ["00_git-github",
@@ -68,4 +75,7 @@ def test_03_software_development(notebook):
                                       "09_deepl"
                                       ])
 def test_04_mini_projects(notebook):
-    execute_notebook(notebook_file="04_mini-projects/" + notebook + ".ipynb")
+    root_path = os.getcwd()
+    os.chdir("04_mini-projects/")
+    execute_notebook(notebook_file=notebook + ".ipynb")
+    os.chdir(root_path)
