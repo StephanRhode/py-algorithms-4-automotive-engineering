@@ -14,7 +14,7 @@ setuptools>=41.0.0
 six>=1.12.0
 sphinx
 sympy
-control
+control==0.8.3
 yapf
 pylint
 flake8
