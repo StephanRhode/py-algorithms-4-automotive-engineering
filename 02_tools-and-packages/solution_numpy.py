@@ -19,7 +19,7 @@ x = np.array([[3.], [-8.]])
 print("True params", x.flatten())
 
 # create noise
-noise = np.random.randn(m) * 0.02
+noise = np.random.randn(m) * 0.1
 
 # predict model with additive noise
 b = predict(a, x) + noise
