@@ -3,7 +3,7 @@ ipython
 jupyter
 jupyter_contrib_nbextensions
 matplotlib
-numpy==1.18.4
+numpy
 pytest>=4.6
 pytest-cov
 nbconvert
