@@ -217,4 +217,20 @@ pdf causes errors and the figures in pdf are missing.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file 
 for details
 
-## Acknowledgments
+## Errata
+The course material was mainly written in mid 2019 till spring 2020 for Python 3.6 and as
+the language develops, some parts would need changes for Python 3.11 version (current 
+version in 2023).
+### Bugs
+* `01_basic-python\02_data-types` dictionaries are now ordered per default.
+* I missed a section about [type hints](https://docs.python.org/3/library/typing.html), 
+which were introduced in Python 3.5 already. They are a convenient way to call static 
+type checkers like [mypy](https://mypy.readthedocs.io/en/stable/index.html) before 
+program execution. 
+### Enhancements
+Many new features are now available in Python. Here some additional suggestions of language
+features of interest.
+* [Dataclasses](https://docs.python.org/3/library/dataclasses.html) are way more powerful
+replacement for data modeling than named tuples or dictionaries.
+* [Protocols](https://peps.python.org/pep-0544/) came in Python 3.8 and allow to define 
+interfaces through static duck typing. 
