@@ -1,5 +1,6 @@
 autopep8
 ipython
+notebook==6.5.5
 jupyter
 jupyter_contrib_nbextensions
 matplotlib
